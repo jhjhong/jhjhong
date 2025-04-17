@@ -10,7 +10,7 @@
 
 ---
 
-### 🌸 Navigation
+### 🔥 Navigation
 
 - [👩‍💻 About Me](#-about-me)
 - [🛠️ Skills](#️-skills)
