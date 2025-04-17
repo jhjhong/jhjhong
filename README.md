@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chase</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&duration=3500&pause=1000&color=EC407A&center=true&vCenter=true&width=500&lines=Hi,+I'm+Chase+👩‍💻;Backend+Engineer+from+Taiwan;Loves+Cats+and+Coding+and+Money;Always+learning+%26+growing+🌱;Crafting+robust+backend+systems+🚀;Always+learning+%26+improving+🧠" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&duration=3500&pause=1000&color=EC407A&center=true&vCenter=true&width=500&lines=Hi,+I'm+Chase+👩‍💻;DevOps+Engineer+in+Bioinformatics;Loves+Cats+and+Coding+and+Money;Always+learning+%26+growing+🌱;Crafting+robust+backend+systems+🚀;Always+learning+%26+improving+🧠" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 ### 👩‍💻 About Me
 
 - 🔭 Bioinformatics leader with a foundation in DevOps, now focused on software development, pipeline automation, and QA for oncology diagnostics
-- 🌱 Currently leading a bioinformatics team at Feng Chi Biotech, bridging science, engineering, and business to drive product success
+- 🌱 Currently leading a bioinformatics team, bridging science, engineering, and business to drive product success
 - 🔬 10+ years of experience in bioinformatics, computational biology, and meta’omics, with a solid background in machine learning and databases
 - 💬 Passionate about cross-functional collaboration, supporting R&D, production, clinical teams, and business units
 - 🧠 Passionate about clean code and system design
