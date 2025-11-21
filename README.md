@@ -84,8 +84,8 @@
     </td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jhjhong&show_icons=true&theme=dracula&locale=zh-tw&include_all_commits=true">
-        <img height="300" src="https://github-readme-stats.vercel.app/api?username=jhjhong&show_icons=true&theme=dracula&locale=zh-tw&include_all_commits=true" alt="GitHub Stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jhjhong&show_icons=true&hide=contribs&theme=dracula&locale=zh-tw&include_all_commits=true">
+        <img height="300" src="https://github-readme-stats.vercel.app/api?username=jhjhong&show_icons=true&hide=contribs&theme=dracula&locale=zh-tw&include_all_commits=true" alt="GitHub Stats" />
       </picture>
     </td>
   </tr>
